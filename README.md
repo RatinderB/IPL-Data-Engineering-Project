@@ -73,15 +73,10 @@ ipl-data-engineering-project/
    - Ensured consistency in categorical fields such as team names.
 
 3. **Analysis Highlights**:
-   - Top-performing players (e.g., most player of the match awards).
+   - Top-performing players for a team (Punjab Kings).
    - Team win/loss trends across different seasons.
    - Detailed match outcomes based on toss decisions.
 
-## Next Steps
-
-- Extend the project to include more datasets, such as player auction data or season-wise team budgets.
-- Perform advanced analytics, such as predictive modeling for match outcomes.
-- Showcase visualizations with Power BI or Matplotlib/Seaborn in the notebook.
 
 ---
 
