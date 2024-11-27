@@ -5,12 +5,13 @@ This project showcases a data engineering pipeline built to analyze and process 
 ## Project Structure
 
 ipl-data-engineering-project/
-├── data/                           # Directory for datasets
-│   ├── deliveries.csv              # IPL deliveries data
-│   ├── matches.csv                 # IPL matches data
-├── notebooks/                      # Directory for Jupyter/Databricks notebooks
-│   └── ipl_data_analysis_notebook.ipynb  # Analysis and data cleaning notebook
-└── README.md                       # Project overview and instructions
+├── data/                              # Directory for datasets
+│   ├── deliveries.csv                 # IPL deliveries data
+│   ├── matches.csv                    # IPL matches data
+├── notebooks/                         # Directory for Jupyter/Databricks notebooks
+│   └── ipl_data_analysis_notebook.ipynb # Analysis and data cleaning notebook
+└── README.md                          # Project overview and instructions
+
 
 ## Project Objectives
 
